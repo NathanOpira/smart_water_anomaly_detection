@@ -1,0 +1,9 @@
+# Core requirements for smart water anomaly detection
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+pyyaml
+joblib
