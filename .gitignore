@@ -1,3 +1,4 @@
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -26,9 +27,6 @@ models/
 
 # Output files
 outputs/
-
-# Configuration files with secrets (uncomment if you store secrets)
-# config.yaml
 
 # OS generated files
 .DS_Store
